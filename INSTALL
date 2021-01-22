@@ -1,0 +1,9 @@
+Building ShadowX
+
+See doc/readme-qt.rst for instructions on building ShadowX QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ShadowX.
+
+See doc/build-*.txt for instructions on building shadowXd,
+the intended-for-services, no-graphical-interface, reference
+implementation of ShadowX.
